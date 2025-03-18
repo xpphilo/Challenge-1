@@ -1,4 +1,4 @@
-# 🎁 Proyecto: Challenge Amigo secreto - Alura 
+# Proyecto: Challenge Amigo secreto - Alura 
 
 Este proyecto es una aplicación web sencilla creada con HTML y JavaScript puro. Permite gestionar una lista de participantes y realizar un sorteo automático para asignar amigos secretos al azar.
 
